@@ -8,4 +8,4 @@ crate-type = [ 'staticlib' ]
 name = 'iso8601'
 
 [dependencies]
-extendr-api = '*'
+extendr-api = { git = "https://github.com/extendr/extendr.git" }

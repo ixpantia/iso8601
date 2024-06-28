@@ -1,1 +1,2 @@
+useDynLib(iso8601, .registration = TRUE)
 exportPattern("^[[:alpha:]]+")

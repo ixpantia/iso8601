@@ -9,5 +9,6 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Config/rextendr/version: 0.3.1
-RoxygenNote: 7.2.3
+Config/rextendr/version: 0.3.1.9000
+RoxygenNote: 7.3.1
+SystemRequirements: Cargo (Rust's package manager), rustc

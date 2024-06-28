@@ -6,7 +6,6 @@
 # This file was created with the following call:
 #   .Call("wrap__make_iso8601_wrappers", use_symbols = TRUE, package_name = "iso8601")
 
-#' @docType package
 #' @usage NULL
 #' @useDynLib iso8601, .registration = TRUE
 NULL
